@@ -1,4 +1,4 @@
-Symulacja rozproszonego alg. równoważącego obciążenie procesorów.
+#Symulacja rozproszonego algorytmu równoważącego obciążenie procesorów.
 W systemie pracuje N identycznych procesorów. Na każdym z nich pojawiają się nowe zadania (procesy), z RÓŻNĄ częstotliwością i RÓŻNYMI wymaganiami (każdy proces wymaga określonego, różnego,  udziału w mocy obl. procesora - np ~3%). Zasymulować nast. strategie przydziału:
 
 Na procesorze x pojawia sie zadanie. Nastepnie:
