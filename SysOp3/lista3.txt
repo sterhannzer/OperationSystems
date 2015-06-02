@@ -6,7 +6,8 @@ Należy samodzielnie sformułować założenia symulacji:
 
 	- rozmiar pamięci fizycznej (ilość ramek). 
 
-	- długość (powinna być znaczna - min. 1000) i sposób generowania ciągu odwołań do stron (koniecznie uwzględnić zasadę lokalności odwołań).
+	- długość (powinna być znaczna - min. 1000) i sposób generowania 
+	ciągu odwołań do stron (koniecznie uwzględnić zasadę lokalności odwołań).
 
 Działanie programu: 
 
@@ -24,6 +25,7 @@ Działanie programu:
 
 	5. RAND (usuwamy losowo wybraną stronę) 
 
-	- symulacje przeprowadzić (na tym samym ciągu testowym) dla różnej liczby ramek (np. kilku (3, 5, 10?)  wartości podanych przez użytkownika)
+	- symulacje przeprowadzić (na tym samym ciągu testowym) 
+	dla różnej liczby ramek (np. kilku (3, 5, 10?)  wartości podanych przez użytkownika)
 
 Zakres materiału: wszystko o pamięci wirtualnej (z wykładu).
