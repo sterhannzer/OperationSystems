@@ -123,9 +123,9 @@ class Kolejka():
         self.sum_przemieszczen = 0
         self.aktualna_pozycja = 0
         self.kolejnosc_wyszukiwania_zgl = []
-        self.obslozony_na_false()
+        self.obsluzony_na_false()
 
-    def obslozony_na_false(self):
+    def obsluzony_na_false(self):
         for i in self.kolejka:
             if i is not None:
                 i.obsluzony = False
